@@ -1,0 +1,11 @@
+
+Reporting to a Research Scientist at the National Centre for Animal Diseases, Canadian Food Inspection Agency, Lethbridge Laboratory. This highly-motivated individual participates in the development of predictive genomics software, and the analyses of genome sequence data in support of the national brucellosis program. Duties include: analyses of data using new and established bioinformatics pipelines; development and testing of machine learning models (support vector machines, random forests, and artificial neural networks); programming in Python and / or other programming languages; summarizing data analyses for presentation; integrating into an existing team; performance of other related duties.
+
+
+Education: Completion of two years of University Education with completed classes in Computer Science required, with additional classes from Statistics, Evolutionary Biology, Microbiology, Molecular Biology preferred.
+ 
+Experience: Previous work experience in computer science or statistics preferred; work experience in microbiology and/or molecular biology a welcome addition.
+ 
+Knowledge: of programming languages such as Python, Perl, C, C++, or Java; preference given to those with knowledge of basic principles of statistical methods and evolutionary biology; of laboratory safety procedures.
+ 
+Abilities and Skills: strong organizational skills, ability to follow written and oral instructions; ability to observe and record experimental results; ability to prepare reports on experimental studies; ability to work independently; ability to program in at least one computer language. You should possess: reliability, initiative, good judgement and integrity.

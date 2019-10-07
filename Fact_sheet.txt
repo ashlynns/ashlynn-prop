@@ -1,0 +1,88 @@
+What is brucellosis?
+
+Brucellosis is a disease caused by several species of the Brucella bacterium. It is chronic and contagious.
+
+The disease can affect many species of mammals, particularly cattle, swine, bison, elk, deer, goats, sheep, horses and other ruminants.
+
+Brucellosis is a zoonotic disease, meaning it can spread from animals to humans.
+
+There are various types of brucellosis, including the following:
+
+    bovine brucellosis (Brucella abortus), which primarily affects cattle, bison and elk
+    porcine brucellosis (Brucella suis), which primarily affects swine
+    caprine/ovine brucellosis (Brucella melitensis), which primarily affects goats and sheep
+
+Humans can become infected by all types of brucellosis, including a fourth type, which is known as "rangiferine" brucellosis. It occurs in reindeer and caribou in northern Canada.
+Where is brucellosis found?
+
+The disease is present to varying degrees in most countries of the world. Much of Australia, Canada, New Zealand and Western Europe have eradicated brucellosis from their livestock. The United States is nearing eradication, as well.
+
+Canada initiated an eradication program for bovine brucellosis in livestock in the 1940s, and was declared free of the disease in 1985. Several isolated cases of bovine brucellosis in livestock were subsequently identified, with the last known case occurring in a cattle herd in Saskatchewan in 1989.
+
+Porcine brucellosis and caprine/ovine brucellosis have never been reported in livestock or wildlife in Canada.
+
+Canada has two wildlife reservoirs of brucellosis:
+
+    bovine brucellosis is present in free-ranging bison herds in and around Wood Buffalo National Park, which straddles the border between Alberta and the Northwest Territories
+    rangiferine brucellosis is present in free-roaming caribou and reindeer in arctic and sub-arctic Canada
+
+Management plans are in place to prevent the spread of brucellosis from these wildlife populations to domestic livestock.
+How is brucellosis transmitted and spread?
+
+Animals can become infected with brucellosis in a number of ways, including:
+
+    through direct contact with infected tissues or fluids from an infected animal;
+    by consuming colostrum or milk from an infected animal; or
+    by consuming feed or water that has been contaminated by infected tissues or fluids.
+
+What are the clinical signs of brucellosis infection in animals?
+
+Following infection, the bacteria spread through the blood and lymphatic system of the animal, infecting many tissues-particularly the reproductive organs, mammary glands and joints. This can cause abortions, weakened offspring and infertility.
+
+In cattle, abortions are the main clinical sign of the disease. Most animals abort during the first pregnancy following infection, and will carry subsequent pregnancies to term. However, they remain carriers for life, and can continue to shed large quantities of the bacteria during subsequent births and occasionally in their milk.
+
+Infected males may develop a testicular infection that reduces fertility. Some infected animals develop joint infections-especially of the knees-which cause enlarged joints, lameness, and reduced productivity.
+
+In horses, in addition to being a cause of abortion, brucellosis can also cause draining sores on the head and neck.
+
+Any infected animal may carry brucellosis for life.
+Does brucellosis pose a risk to human health?
+
+While brucellosis can cause a disease in humans called "undulant fever," human cases are rare in Canada. Sanitary practices in slaughterhouses and pasteurization of milk are effective in preventing the vast majority of human cases of brucellosis.
+
+Human infection can be prevented by avoiding unpasteurized dairy products (e.g. milk, cheese) and by careful handling of infected animals and their tissues.
+How is brucellosis diagnosed?
+
+Various blood tests can be used to identify the presence of brucellosis by detecting antibodies to the bacterium. In a few cases, animals that are in the "latent carrier" stage of the infection will give a negative result on these serological tests.
+
+The best method for a definitive diagnosis of brucellosis has been to culture the organism from tissues or fluids. Modern tests are now able to detect the presence of the DNA of the bacteria in tissues and fluids.
+Are there any treatments or vaccines for brucellosis?
+
+The bacteria that cause brucellosis are susceptible to certain antibiotics. However, treatment of infected livestock does not effectively eliminate the infection because the bacteria are able to "hide" from the drug inside the cells of lymph nodes and other organs. Treatment requires a very long course of antibacterial drugs, which is not suitable for animals and does not always eliminate the infection, achieving temporary remission only.
+
+Vaccines have been developed to prevent the disease symptoms (abortion, infertility, etc.) of brucellosis in animals. However, these vaccines do not necessarily prevent animals from becoming infected with the bacteria. Some vaccines may interfere with diagnostic tests because they result in the production of antibodies that cannot be distinguished from those produced by a true infection.
+
+Vaccination of cattle for brucellosis is not permitted in Canada. In order to be considered officially free of brucellosis under the criteria established by the World Organisation for Animal Health (OIE), a country cannot practise vaccination for the disease.
+How does the Canadian Food Inspection Agency (CFIA) maintain Canada's brucellosis-free status for livestock?
+
+The brucellosis-free status of Canadian livestock is maintained by a series of programs designed to:
+
+    prevent the introduction of infection through import controls;
+    detect any infected animals in the population as early as possible through surveillance;
+    thoroughly investigate all suspect cases of the disease that are reported to CFIA; and,
+    eliminate any confirmed infection found in livestock through the mandatory slaughter of all infected and exposed animals.
+
+Brucellosis (Brucella abortus, Brucella suis, Brucella melitensis) is a reportable disease in Canada. This means that anyone who suspects that an animal has brucellosis must immediately notify a CFIA veterinarian.
+
+In addition, surveillance programs are carried out in the cattle, swine, farmed bison, and farmed elk and deer sectors. For cattle and swine, surveillance is done by surveying the national herds. Blood samples are collected from randomly-selected animals at slaughter and tested in the CFIA laboratory.
+
+This is augmented by the ongoing testing of cattle at auction markets in northern Alberta and northeastern British Columbia, due to the presence of brucellosis among free-ranging bison in and around Wood Buffalo National Park.
+
+For farmed bison and farmed elk and deer, surveillance is done by routinely collecting blood samples at slaughter for laboratory testing. Farmed elk and deer herds are also periodically tested on the farm.
+What happens if brucellosis is detected in livestock in Canada?
+
+If brucellosis is detected in a livestock herd in Canada, the CFIA immediately implements disease control measures. This includes the humane destruction and disposal of all infected animals and animals that were exposed to the infection. Compensation is paid for animals ordered destroyed by the CFIA.
+
+Contaminated areas of the infected farm must also undergo cleaning and disinfection. Once re-stocked, the herd will be subject to periodic testing to confirm that the infection has been eliminated.
+
+Herds that had contact with the infected herd are also investigated and tested, in order to identify any additional cases and determine the possible source of the infection.
